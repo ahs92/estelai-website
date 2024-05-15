@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/estelai-website/static/css/main.0028833b.chunk.css",
+    "main.js": "/estelai-website/static/js/main.e4bdcaa6.chunk.js",
+    "main.js.map": "/estelai-website/static/js/main.e4bdcaa6.chunk.js.map",
+    "runtime-main.js": "/estelai-website/static/js/runtime-main.6673020e.js",
+    "runtime-main.js.map": "/estelai-website/static/js/runtime-main.6673020e.js.map",
+    "static/js/2.0b998b84.chunk.js": "/estelai-website/static/js/2.0b998b84.chunk.js",
+    "static/js/2.0b998b84.chunk.js.map": "/estelai-website/static/js/2.0b998b84.chunk.js.map",
+    "index.html": "/estelai-website/index.html",
+    "static/css/main.0028833b.chunk.css.map": "/estelai-website/static/css/main.0028833b.chunk.css.map",
+    "static/js/2.0b998b84.chunk.js.LICENSE.txt": "/estelai-website/static/js/2.0b998b84.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6673020e.js",
+    "static/js/2.0b998b84.chunk.js",
+    "static/css/main.0028833b.chunk.css",
+    "static/js/main.e4bdcaa6.chunk.js"
+  ]
+}
